@@ -193,6 +193,11 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <validationRules>
         <fullName>age_rule</fullName>
         <active>true</active>
